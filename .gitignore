@@ -1,0 +1,12 @@
+# .gitignore
+# Secrets and local configurations
+.env
+*.key
+secrets/
+appsettings.json
+
+# System/IDE files
+.DS_Store
+.idea/
+__pycache__/
+node_modules/
